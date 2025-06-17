@@ -1,0 +1,17 @@
+# 媒体文件重复清理工具的依赖项
+# 本项目主要使用Python标准库，无需额外安装Python包
+
+# 外部依赖：
+# - FFmpeg: 用于视频分析，需要手动安装并添加到系统PATH
+#   Windows: https://ffmpeg.org/download.html
+#   macOS: brew install ffmpeg  
+#   Linux: sudo apt install ffmpeg
+
+# Python标准库使用的模块（无需安装）：
+# - os
+# - sys
+# - collections
+# - re
+# - subprocess
+# - datetime
+# - json 
